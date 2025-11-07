@@ -11,7 +11,7 @@ const font = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "bett-color",
+  title: "colorytics",
   description: "Convert color codes of any format to css color codes.",
   metadataBase: new URL("https://colorytics.vercel.app"),
   icons: {
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     apple: "/pp.png",
   },
   openGraph: {
-    title: "bett-color",
+    title: "colorytics",
     description: "Convert color codes of any format to css color codes.",
     images: ["/opengraph-image.png"],
   },
