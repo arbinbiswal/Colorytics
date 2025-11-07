@@ -13,7 +13,7 @@ const font = Geist_Mono({
 export const metadata: Metadata = {
   title: "bett-color",
   description: "Convert color codes of any format to css color codes.",
-  metadataBase: new URL("https://bett-color.vercel.app"),
+  metadataBase: new URL("https://colorytics.vercel.app"),
   icons: {
     icon: [
       { url: "/pp.png", type: "image/png" },
